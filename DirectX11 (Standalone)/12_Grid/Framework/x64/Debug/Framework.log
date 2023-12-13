@@ -1,0 +1,39 @@
+﻿  Framework.cpp
+c:\users\blues\desktop\advanced_programming\directx11\02_vertex\framework\framework.h(24): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx10math.h': No such file or directory
+  Context.cpp
+c:\users\blues\desktop\advanced_programming\directx11\02_vertex\framework\renders\context.cpp(1): fatal error C1083: 포함 파일을 열 수 없습니다. 'Framework.h': No such file or directory
+  Shader.cpp
+c:\users\blues\desktop\advanced_programming\directx11\02_vertex\framework\renders\shader.cpp(1): fatal error C1083: 포함 파일을 열 수 없습니다. 'Framework.h': No such file or directory
+  Texture.cpp
+c:\users\blues\desktop\advanced_programming\directx11\02_vertex\framework\renders\texture.cpp(1): fatal error C1083: 포함 파일을 열 수 없습니다. 'framework.h': No such file or directory
+  D3D.cpp
+c:\users\blues\desktop\advanced_programming\directx11\02_vertex\framework\systems\d3d.cpp(1): fatal error C1083: 포함 파일을 열 수 없습니다. 'framework.h': No such file or directory
+  Gui.cpp
+c:\users\blues\desktop\advanced_programming\directx11\02_vertex\framework\systems\gui.cpp(1): fatal error C1083: 포함 파일을 열 수 없습니다. 'Framework.h': No such file or directory
+  Keyboard.cpp
+c:\users\blues\desktop\advanced_programming\directx11\02_vertex\framework\systems\keyboard.cpp(1): fatal error C1083: 포함 파일을 열 수 없습니다. 'framework.h': No such file or directory
+  Mouse.cpp
+c:\users\blues\desktop\advanced_programming\directx11\02_vertex\framework\systems\mouse.cpp(1): fatal error C1083: 포함 파일을 열 수 없습니다. 'framework.h': No such file or directory
+  Time.cpp
+c:\users\blues\desktop\advanced_programming\directx11\02_vertex\framework\systems\time.cpp(1): fatal error C1083: 포함 파일을 열 수 없습니다. 'framework.h': No such file or directory
+  Window.cpp
+c:\users\blues\desktop\advanced_programming\directx11\02_vertex\framework\systems\window.cpp(1): fatal error C1083: 포함 파일을 열 수 없습니다. 'Framework.h': No such file or directory
+  BinaryFile.cpp
+c:\users\blues\desktop\advanced_programming\directx11\02_vertex\framework\utilities\binaryfile.cpp(1): fatal error C1083: 포함 파일을 열 수 없습니다. 'Framework.h': No such file or directory
+  Math.cpp
+c:\users\blues\desktop\advanced_programming\directx11\02_vertex\framework\utilities\math.cpp(1): fatal error C1083: 포함 파일을 열 수 없습니다. 'Framework.h': No such file or directory
+  Path.cpp
+c:\users\blues\desktop\advanced_programming\directx11\02_vertex\framework\utilities\path.cpp(1): fatal error C1083: 포함 파일을 열 수 없습니다. 'Framework.h': No such file or directory
+  String.cpp
+c:\users\blues\desktop\advanced_programming\directx11\02_vertex\framework\utilities\string.cpp(1): fatal error C1083: 포함 파일을 열 수 없습니다. 'Framework.h': No such file or directory
+  Xml.cpp
+c:\users\blues\desktop\advanced_programming\directx11\02_vertex\framework\utilities\xml.cpp(24): fatal error C1083: 포함 파일을 열 수 없습니다. 'Framework.h': No such file or directory
+  Orthographic.cpp
+c:\users\blues\desktop\advanced_programming\directx11\02_vertex\framework\viewer\orthographic.cpp(1): fatal error C1083: 포함 파일을 열 수 없습니다. 'Framework.h': No such file or directory
+  Perspective.cpp
+c:\users\blues\desktop\advanced_programming\directx11\02_vertex\framework\viewer\perspective.cpp(1): fatal error C1083: 포함 파일을 열 수 없습니다. 'Framework.h': No such file or directory
+  Projection.cpp
+c:\users\blues\desktop\advanced_programming\directx11\02_vertex\framework\viewer\projection.cpp(1): fatal error C1083: 포함 파일을 열 수 없습니다. 'Framework.h': No such file or directory
+  Viewport.cpp
+c:\users\blues\desktop\advanced_programming\directx11\02_vertex\framework\viewer\viewport.cpp(1): fatal error C1083: 포함 파일을 열 수 없습니다. 'Framework.h': No such file or directory
+  코드를 생성하고 있습니다...
